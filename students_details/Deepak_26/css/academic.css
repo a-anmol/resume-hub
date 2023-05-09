@@ -1,0 +1,28 @@
+
+.award {
+    position: absolute;
+    top:100px;
+    right: 100px;
+    color: white;
+}
+.acade {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    color: white;
+}
+.acade h2 {
+    color: skyblue;
+}
+.award h2 {
+    color: skyblue;
+}
+.top {
+    text-align: center;
+    color: #04AA6D;
+}
+
+
+
+
+

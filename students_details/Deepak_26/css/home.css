@@ -1,0 +1,15 @@
+
+.top {
+    text-align: center;
+    color: #04AA6D;
+}
+.intro {
+    text-align: center;
+    margin: 100px 40px;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    block-size: auto;
+}
+

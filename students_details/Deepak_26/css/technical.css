@@ -1,0 +1,18 @@
+.top {
+    text-align: center;
+    color: #04AA6D;
+}
+.tech {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    
+    color:white;
+}
+.tech p {
+    font-size: 20px;
+}
+
+.tech h2{
+    color: skyblue;
+}

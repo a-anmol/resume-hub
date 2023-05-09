@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav {
+    position: fixed;
+    background-color:#131618;
+    height: 81px;
+    width: 100%; 
+    text-align: center;
+    overflow: hidden;
+}
+
+a {
+    display: inline-block;
+    color:rgb(213, 225, 230);
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 10px;
+}
+
+
+a:hover{
+    background-color:#04AA6D;
+}
+
+.f2 {
+    margin-top: 74px;
+    border: none;
+    background-color:#191f22;
+}
+
+
+
+

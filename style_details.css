@@ -1,0 +1,15 @@
+body{
+    background-color: #34495e;
+}
+.img{
+    position: absolute;
+    top: 5%;
+    left: 4%;
+    border: 2em solid #191919;
+    border-radius : 20px ;
+    transition: 0.5s;
+}
+.img:hover{
+    border: 2em solid #2ecc71;
+    transform: translateY(-5px);
+}

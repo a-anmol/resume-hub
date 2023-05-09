@@ -1,0 +1,40 @@
+.divs{
+    border: 2px solid green;
+}
+
+.top{
+    position:absolute;
+    top:5px;
+    right:30px;
+}
+.top img{
+    position:absolute;
+    top: 8px;
+    right:600px;
+}
+
+.middle{
+    position:absolute;
+    top:110px;
+    left:0px;
+}
+
+.middle strong{
+    padding-top:20px;
+    margin-bottom:50px;
+}
+.bottom{
+    position: absolute;
+    top:800px;
+    left:0px;
+}
+.date{
+    position:absolute;
+    top:100px;
+    left:0px;
+}
+.sign{
+    position:absolute;
+    top:10px;
+    left:480px;
+}
